@@ -2,7 +2,7 @@
   "name": "scc-react-exercise",
   "version": "0.1.0",
   "private": true,
-  "homepages": "https://andolino.github.io/scc-react-exercise/",
+  "homepage": "https://andolino.github.io/scc-react-exercise/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
