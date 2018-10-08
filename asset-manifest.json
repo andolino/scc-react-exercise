@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.233ec6bf.chunk.js",
-  "main.js.map": "/static/js/main.233ec6bf.chunk.js.map",
-  "static/js/1.f4d10aee.chunk.js": "/static/js/1.f4d10aee.chunk.js",
-  "static/js/1.f4d10aee.chunk.js.map": "/static/js/1.f4d10aee.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.04dae7169de5c7fed106e29ea6611986.js": "/precache-manifest.04dae7169de5c7fed106e29ea6611986.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/scc-react-exercise/static/js/main.233ec6bf.chunk.js",
+  "main.js.map": "/scc-react-exercise/static/js/main.233ec6bf.chunk.js.map",
+  "static/js/1.f4d10aee.chunk.js": "/scc-react-exercise/static/js/1.f4d10aee.chunk.js",
+  "static/js/1.f4d10aee.chunk.js.map": "/scc-react-exercise/static/js/1.f4d10aee.chunk.js.map",
+  "runtime~main.js": "/scc-react-exercise/static/js/runtime~main.7fe9c463.js",
+  "runtime~main.js.map": "/scc-react-exercise/static/js/runtime~main.7fe9c463.js.map",
+  "index.html": "/scc-react-exercise/index.html",
+  "precache-manifest.a1961804db59fdc15e45f6616c73549e.js": "/scc-react-exercise/precache-manifest.a1961804db59fdc15e45f6616c73549e.js",
+  "service-worker.js": "/scc-react-exercise/service-worker.js"
 }
